@@ -1,6 +1,6 @@
-# Quasar App (quasar-project)
+# Weather_api
 
-A Quasar Project
+Weather_api
 
 ## Install the dependencies
 ```bash
@@ -20,5 +20,3 @@ quasar dev
 quasar build
 ```
 
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
